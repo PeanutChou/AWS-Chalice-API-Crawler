@@ -6,7 +6,7 @@
       "api_gateway_stage": "dev",
       "log_retention_in_days": 7,
       "environment_variables": {
-        "DB_HOST":"database.cfobcpkjxzq8.ap-northeast-1.rds.amazonaws.com",
+        "DB_HOST":"DB",
         "DB_PORT":"5432",
         "DB_DATABASE":"DB",
         "DB_USER":"USER",
